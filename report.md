@@ -6,6 +6,8 @@ This is not. This is just random text in the body
 
 If you want to **bold** text surround it with double stars.
 
+If you want *italics* surround it with single stars.
+
 ### This is a lvl 3 heading
 
 If you want to make a list
